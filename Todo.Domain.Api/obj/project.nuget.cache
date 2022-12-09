@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "9DbxY+1rko2Ilc1tXp64ezjWjJXiMT7MuwVG46NCRoahyWlMyw226ykcaYXfm4AtGZFeLFsq6uKyYCh1Dbb+/Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Pedro\\OneDrive - sga.pucminas.br\\Área de Trabalho\\TodoApp\\Todo.Domain.Api\\Todo.Domain.Api.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Pedro\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.30\\microsoft.netcore.app.host.win-x64.3.1.30.nupkg.sha512",
+    "C:\\Users\\Pedro\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512"
+  ],
+  "logs": []
+}

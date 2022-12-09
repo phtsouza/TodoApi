@@ -1,0 +1,126 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Todo.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/Todo.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Todo.Domain.dll": {}
+        }
+      },
+      "Todo.Domain.Infra/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "Todo.Domain": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Todo.Domain.Infra.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Todo.Domain.Infra.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Todo.Domain/1.0.0": {
+      "type": "project",
+      "path": "../Todo.Domain/Todo.Domain.csproj",
+      "msbuildProject": "../Todo.Domain/Todo.Domain.csproj"
+    },
+    "Todo.Domain.Infra/1.0.0": {
+      "type": "project",
+      "path": "../Todo.Domain.Infra/Todo.Domain.Infra.csproj",
+      "msbuildProject": "../Todo.Domain.Infra/Todo.Domain.Infra.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "Todo.Domain >= 1.0.0",
+      "Todo.Domain.Infra >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Pedro\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\Pedro\\OneDrive - sga.pucminas.br\\Área de Trabalho\\TodoApp\\Todo.Domain.Api\\Todo.Domain.Api.csproj",
+      "projectName": "Todo.Domain.Api",
+      "projectPath": "C:\\Users\\Pedro\\OneDrive - sga.pucminas.br\\Área de Trabalho\\TodoApp\\Todo.Domain.Api\\Todo.Domain.Api.csproj",
+      "packagesPath": "C:\\Users\\Pedro\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Pedro\\OneDrive - sga.pucminas.br\\Área de Trabalho\\TodoApp\\Todo.Domain.Api\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Pedro\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "projectReferences": {
+            "C:\\Users\\Pedro\\OneDrive - sga.pucminas.br\\Área de Trabalho\\TodoApp\\Todo.Domain.Infra\\Todo.Domain.Infra.csproj": {
+              "projectPath": "C:\\Users\\Pedro\\OneDrive - sga.pucminas.br\\Área de Trabalho\\TodoApp\\Todo.Domain.Infra\\Todo.Domain.Infra.csproj"
+            },
+            "C:\\Users\\Pedro\\OneDrive - sga.pucminas.br\\Área de Trabalho\\TodoApp\\Todo.Domain\\Todo.Domain.csproj": {
+              "projectPath": "C:\\Users\\Pedro\\OneDrive - sga.pucminas.br\\Área de Trabalho\\TodoApp\\Todo.Domain\\Todo.Domain.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[3.1.10, 3.1.10]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Host.win-x64",
+            "version": "[3.1.30, 3.1.30]"
+          }
+        ],
+        "frameworkReferences": {
+          "Microsoft.AspNetCore.App": {
+            "privateAssets": "none"
+          },
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

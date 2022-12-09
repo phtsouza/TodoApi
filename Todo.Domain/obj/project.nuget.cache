@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "8WVe7u5qpkd/wrZIbN7eJUD2s2t9bjXfBtKl3Fx0W8Buz+kQgTELOp4X8WaqxrFOTwAf01dlXzqZI1t7886WWg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Pedro\\OneDrive - sga.pucminas.br\\Área de Trabalho\\TodoApp\\Todo.Domain\\Todo.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Pedro\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512"
+  ],
+  "logs": []
+}

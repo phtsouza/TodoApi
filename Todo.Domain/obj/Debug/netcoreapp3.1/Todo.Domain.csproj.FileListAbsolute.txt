@@ -1,0 +1,10 @@
+C:\Users\Pedro\OneDrive - sga.pucminas.br\Área de Trabalho\TodoApp\Todo.Domain\bin\Debug\netcoreapp3.1\Todo.Domain.deps.json
+C:\Users\Pedro\OneDrive - sga.pucminas.br\Área de Trabalho\TodoApp\Todo.Domain\bin\Debug\netcoreapp3.1\Todo.Domain.dll
+C:\Users\Pedro\OneDrive - sga.pucminas.br\Área de Trabalho\TodoApp\Todo.Domain\bin\Debug\netcoreapp3.1\Todo.Domain.pdb
+C:\Users\Pedro\OneDrive - sga.pucminas.br\Área de Trabalho\TodoApp\Todo.Domain\obj\Debug\netcoreapp3.1\Todo.Domain.csproj.AssemblyReference.cache
+C:\Users\Pedro\OneDrive - sga.pucminas.br\Área de Trabalho\TodoApp\Todo.Domain\obj\Debug\netcoreapp3.1\Todo.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pedro\OneDrive - sga.pucminas.br\Área de Trabalho\TodoApp\Todo.Domain\obj\Debug\netcoreapp3.1\Todo.Domain.AssemblyInfoInputs.cache
+C:\Users\Pedro\OneDrive - sga.pucminas.br\Área de Trabalho\TodoApp\Todo.Domain\obj\Debug\netcoreapp3.1\Todo.Domain.AssemblyInfo.cs
+C:\Users\Pedro\OneDrive - sga.pucminas.br\Área de Trabalho\TodoApp\Todo.Domain\obj\Debug\netcoreapp3.1\Todo.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Pedro\OneDrive - sga.pucminas.br\Área de Trabalho\TodoApp\Todo.Domain\obj\Debug\netcoreapp3.1\Todo.Domain.dll
+C:\Users\Pedro\OneDrive - sga.pucminas.br\Área de Trabalho\TodoApp\Todo.Domain\obj\Debug\netcoreapp3.1\Todo.Domain.pdb
